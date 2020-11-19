@@ -58,10 +58,12 @@ MinGW-w64 as host.
    - gperf
    - help2man
    - libncurses-devel
+   - libtool
    - make
    - patch
    - python-devel
    - texinfo
+   - unzip
    - wget
    - xz
 
